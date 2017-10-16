@@ -1,0 +1,4 @@
+﻿  binaryGap.cpp
+c:\users\vlad\documents\visual studio 2015\projects\binarygap\binarygap\binarygap.cpp(35): warning C4018: '>': signed/unsigned mismatch
+  binaryGap.vcxproj -> c:\users\vlad\documents\visual studio 2015\Projects\binaryGap\Debug\binaryGap.exe
+  binaryGap.vcxproj -> c:\users\vlad\documents\visual studio 2015\Projects\binaryGap\Debug\binaryGap.pdb (Full PDB)
